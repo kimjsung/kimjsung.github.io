@@ -1,0 +1,36 @@
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://jekyller.github.io/vitae
+author: Fábio Madeira
+
+# edit this section with your information
+# jekyller.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: /
+title: Jinsung Kim
+name: Jinsung Kim
+email: kim.4232@osu.edu
+email_full: mailto:kim.4232@osu.edu
+#website: github.io/sustain
+#website_full: https://jekyller.github.io/sustain
+#github: trending
+#twitter: twitter
+tel: +1 614-648-5358
+#tel_full: tel:+440000000000
+#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+address:
+  street: Dept. of Computer Science and Engineering, The Ohio State University, 574 Dreese Laboratories, 2015 Neil Avenue
+  postcode: 43210
+  city: Columbus, OH
+  country: USA
+#google_analytics: UA-69300817-1
+
+# needed for travis-ci build
+exclude: [vendor]
