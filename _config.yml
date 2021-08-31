@@ -16,8 +16,8 @@ author: Fábio Madeira
 baseurl: /
 title: Jinsung Kim
 name: Jinsung Kim
-email: kimjsung@cau.ac.kr (kim.4232@osu.edu)
-email_full: mailto:kimjsung@cau.ac.kr (kim.4232@osu.edu)
+email: kimjsung@cau.ac.kr
+email_full: mailto:kimjsung@cau.ac.kr
 #website: github.io/sustain
 #website_full: https://jekyller.github.io/sustain
 #github: trending
@@ -31,6 +31,5 @@ address:
   city: Seoul
   country: South Korea
 #google_analytics: UA-69300817-1
-502, Building 208, 84 Heukseok-Ro, Dongjak-gu, Seoul 06974, South Korea (TEL: +82-2-820-5175)
 # needed for travis-ci build
 exclude: [vendor]
