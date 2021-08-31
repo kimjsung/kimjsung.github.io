@@ -16,21 +16,21 @@ author: Fábio Madeira
 baseurl: /
 title: Jinsung Kim
 name: Jinsung Kim
-email: jinsung.kim@pnnl.gov (kim.4232@osu.edu, u6027797@utah.edu)
-email_full: mailto:jinsung.kim@pnnl.gov (kim.4232@osu.edu, u6027797@utah.edu)
+email: kimjsung@cau.ac.kr (kim.4232@osu.edu)
+email_full: mailto:kimjsung@cau.ac.kr (kim.4232@osu.edu)
 #website: github.io/sustain
 #website_full: https://jekyller.github.io/sustain
 #github: trending
 #twitter: twitter
-tel: +1 614-648-5358
+tel: +82-10-8773-8641
 #tel_full: tel:+440000000000
 #google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
-  street: 3300 STEVENS DR
-  postcode: 99352
-  city: RICHLAND, WA
-  country: USA
+  street: 84 Heukseok-Ro, Dongjak-gu, 
+  postcode: 06974
+  city: Seoul
+  country: South Korea
 #google_analytics: UA-69300817-1
-
+502, Building 208, 84 Heukseok-Ro, Dongjak-gu, Seoul 06974, South Korea (TEL: +82-2-820-5175)
 # needed for travis-ci build
 exclude: [vendor]
